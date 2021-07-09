@@ -1,0 +1,10 @@
+C:\Users\17194\Desktop\GitHub\The Reverse Cipher\The Reverse Cipher\bin\Debug\The Reverse Cipher.exe.config
+C:\Users\17194\Desktop\GitHub\The Reverse Cipher\The Reverse Cipher\bin\Debug\The Reverse Cipher.exe
+C:\Users\17194\Desktop\GitHub\The Reverse Cipher\The Reverse Cipher\bin\Debug\The Reverse Cipher.pdb
+C:\Users\17194\Desktop\GitHub\The Reverse Cipher\The Reverse Cipher\obj\Debug\The Reverse Cipher.csproj.AssemblyReference.cache
+C:\Users\17194\Desktop\GitHub\The Reverse Cipher\The Reverse Cipher\obj\Debug\The_Reverse_Cipher.frmReverseCipher.resources
+C:\Users\17194\Desktop\GitHub\The Reverse Cipher\The Reverse Cipher\obj\Debug\The_Reverse_Cipher.Properties.Resources.resources
+C:\Users\17194\Desktop\GitHub\The Reverse Cipher\The Reverse Cipher\obj\Debug\The Reverse Cipher.csproj.GenerateResource.cache
+C:\Users\17194\Desktop\GitHub\The Reverse Cipher\The Reverse Cipher\obj\Debug\The Reverse Cipher.csproj.CoreCompileInputs.cache
+C:\Users\17194\Desktop\GitHub\The Reverse Cipher\The Reverse Cipher\obj\Debug\The Reverse Cipher.exe
+C:\Users\17194\Desktop\GitHub\The Reverse Cipher\The Reverse Cipher\obj\Debug\The Reverse Cipher.pdb
